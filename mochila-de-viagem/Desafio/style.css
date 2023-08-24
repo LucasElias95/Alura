@@ -1,0 +1,9 @@
+.item > strong::after {
+        content: ' x ';
+        font-weight: bold;
+}
+
+
+
+
+
